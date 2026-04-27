@@ -1,0 +1,8 @@
+{
+	"appId": "com.zivpn.custom",
+	"appName": "ZiVPN PRO",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
